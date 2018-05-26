@@ -1,0 +1,1 @@
+to build a job in jenkins using shell , remember the user and group should be jenkins
