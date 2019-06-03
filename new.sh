@@ -1,7 +1,5 @@
+#!/bin/bash
 echo "first one"
-a=10
-b=20
-sum=($a + $b)
-echo $sum
+echo "second one"
 
 
